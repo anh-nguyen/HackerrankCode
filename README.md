@@ -1,6 +1,6 @@
 
 
-This project contains code for the problems I have solved on Hackerrank.com.
+This project contains code for the problems I have solved on http://www.hackerrank.com.
 
 The solutions given here have passed all of the test cases on Hackerrank.
 
